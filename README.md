@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-I'm a computer science graduate and software developer, with a passion for computing technology since childhood. During my studies and work experiences, I have learned to develop software for various platforms and environments, with an emphasis on artificial intelligence and mobile application development.
+I'm a computer science graduate and software developer with a passion for computing technology since childhood. During my studies and work experiences, I have learned to develop software for various platforms and environments, with an emphasis on artificial intelligence and mobile application development.
 
 #
 
